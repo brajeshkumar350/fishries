@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+.login 
+{
+	border: #0080c0 solid 0px;
+	
+	
+	
+}
+
+.lform 
+{
+	border: #0080c0 solid 1px;
+	width: 500px;
+	font-weight: bold;
+		
+}
+.login label
+{
+	
+	padding: 20px;
+		
+}
+
+
+.lform div
+{
+	margin-top: 10px;
+	padding: 20px;
+		
+}
+
+.login input
+{
+	width: 300px;
+	height: 40px;
+	border:  #0080c0 solid 1px;
+}

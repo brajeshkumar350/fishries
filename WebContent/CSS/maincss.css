@@ -1,0 +1,128 @@
+.main
+{
+	width: 100%;
+	height: 500px;
+	
+}
+.navigator
+{
+	width: 100%;
+	height: 42px;
+	border-top: #0080c0 solid 1px;
+	border-bottom: #0080c0 solid 1px;
+}
+
+.contact
+{
+	width: 100%;
+	height: 500px;	
+	border: #0080c0 solid 1px;
+	padding: 30px;
+}
+
+.contact form select
+{
+	width: 300px;
+	padding: 8px;
+}
+
+.contact form input
+{
+	width: 100px;
+	padding: 14px;
+	background-color: #8f7af5;
+	font-weight: bold;
+}
+
+.contact form input:hover
+{
+	color: white;
+	background-color: green;
+	
+}
+
+.contact form select option
+{
+	
+	padding: 7px;
+	border-bottom: blue solid 1px;
+}
+
+
+.navigator ul
+{
+	list-style: none;
+	
+}
+
+.navigator ul li
+{
+	float: left;
+	font-size:6x;	
+	
+}
+
+.navigator ul li a
+{
+	font-weight:bold;
+	padding: 10px; 
+	border-right: #0080c0 solid 1px;
+	text-decoration: none;
+}
+
+.navigator ul li a:hover
+{
+	background-color: #0076ae;
+	width: 10%;
+	color: white;
+}
+
+.main_left
+{
+	width: 18%;
+	height: 498px;
+	border-right:#0080c0 solid 1px;
+	float: left;
+}
+.main_mid
+{
+	width: 58%;
+	height: 498px;
+	
+	
+	float: left;
+	margin-left: 2.7%;
+
+}
+.main_right
+{
+	width: 18%;
+	height: 498px;
+	float: right;
+	border-left:#0080c0 solid 1px;
+	
+}
+
+.main_left a {
+	padding: 10px;
+	float: left;
+	margin-top: 1%;
+	border-bottom: #0080c0 solid 1px;
+	text-decoration: none;
+	text-align: center;
+	width: 92%;
+	
+	
+}
+
+.main_right a {
+	padding: 10px;
+	float: left;
+	margin-top: 1%;
+	border-bottom: #0080c0 solid 1px;
+	text-decoration: none;
+	text-align: center;
+	width: 92%;
+	
+	
+}
